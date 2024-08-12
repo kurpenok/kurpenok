@@ -5,8 +5,10 @@ I am an aspiring specialist in big data processing. In addition to my studies, I
 
 At the moment, I am delving into learning the Rust programming language. In the future, I want to expand my knowledge by studying radio electronics and system programming.
 
+<!--
 ### Social media: 📡    
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurpenok)
+-->
 
 ## Competitions: 🥇
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kurpenok?theme=dark&font=JetBrains%20Mono)
