@@ -17,7 +17,7 @@ I am currently studying at the university and studying the Rust programming lang
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kurpenok?theme=dark&font=JetBrains%20Mono)
 
-
+<!--
 ## Languages and Tools
 
 ### Languages:
@@ -52,3 +52,6 @@ I am currently studying at the university and studying the Rust programming lang
 | Linux | Neovim | Git | Docker | Ansible | Swagger | Postman |
 |----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> |
+
+-->
+
