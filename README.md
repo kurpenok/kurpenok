@@ -19,10 +19,6 @@ I am currently studying at the university and studying the Rust programming lang
 
 ## Development Stats
 
-#### Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurpenok&theme=dark&border_color=404040&bg_color=101010&border_radius=4&title_color=f0f0f0&hide_progress=true)
-
-#### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurpenok&theme=dark&border_color=404040&bg_color=101010&border_radius=4&title_color=f0f0f0&rank_icon=github)
